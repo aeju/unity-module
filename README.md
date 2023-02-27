@@ -3,7 +3,7 @@
 ## 목차
     1. UI
     2. Player
-    3. Animation
+    3. Photon
     
 ***
 ### 1. UI
@@ -29,3 +29,5 @@
 - 3DPlayer
 
 ***
+### 3. Photon
+
