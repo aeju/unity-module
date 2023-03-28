@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
-public class HTTPManager : MonoBehaviour
+public class HttpManager : MonoBehaviour
 {
-    public static HTTPManager instance;
+    public static HttpManager instance;
     
     private void Awake()
     {
